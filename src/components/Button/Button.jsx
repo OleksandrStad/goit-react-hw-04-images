@@ -10,8 +10,6 @@ export const BtnLoadMore = ({ handlerClick }) => {
 
 
 
-
-
 BtnLoadMore.propTypes = {
     handlerClick: PropTypes.func.isRequired,
 };
